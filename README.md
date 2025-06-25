@@ -2,11 +2,10 @@
 
 Developer. Systems thinker, Hacker.
 
----
+
 
 ## 🧰 Tech Stack
 
-```bash
 💻 Languages:     C | C++ | Rust | Python | JavaScript | TypeScript | Bash | Shell | Dart | Java | Kotlin
                  SQL | HTML/CSS | R | Lua | Haskell | Assembly | Zig
                  🧪 I also design and experiment with custom languages.
@@ -30,9 +29,9 @@ Developer. Systems thinker, Hacker.
                  Weaviate | Vector DBs | ASR models | Custom LLMs | Cognitive Architectures
 
 📊 Code + Project Usage
-```
+
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
-```
+
 🧠 Powered by WakaTime activity logs.
 
 📫 Connect
