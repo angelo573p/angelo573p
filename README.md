@@ -1,6 +1,6 @@
 # Hi, I'm Shammah 👋
 
-Software dev, AI dev, Systems thinker, Hacker, Math enthusiast, High-schooler.
+Software dev, AI dev, Systems thinker, Hacker, Math enthusiast, High schooler.
 
 ---
 
@@ -16,10 +16,10 @@ Flutter, React Native, Android SDK, Firebase, SQLite, Hive, FCM
 **Security & Cryptography**  
 AES, DES, RSA, HMAC, SHA-256/3, ECC, TLS/SSL, OAuth 2.0, JWT, Post-Quantum Cryptography, Diffie-Hellman  
 Penetration Testing, Ethical Hacking, XSS/CSRF/SQLi  
-Wireshark, Nmap, Hashcat, John the Ripper, Burp Suite, Ghidra, Steganography, Custom Encryption (QX), Blockchain Protocols
+Wireshark, Nmap, Hashcat, John the Ripper, Burp Suite, Ghidra, Steganography, Custom Encryption, Blockchain Protocols
 
 **Tools & Platforms**  
-Linux (Arch, Kali, Debian), Git, tmux, zsh, fish, Docker, VSCode, Neovim, Postman, Obsidian, Fiddler, Ghidra, IDA, Termux, Replit, Copilot, VirtualBox, Tails OS, QEMU, SSH, SCP, rsync, Notion, HuggingFace, Tor Browser
+Linux (Arch, Kali, Debian), Git, tmux, zsh, fish, Docker, VSCode, Neovim, Postman, Obsidian, Fiddler, Ghidra, IDA, Termux, VirtualBox, Tails OS, QEMU, SSH, SCP, rsync, HuggingFace
 
 **Web & App Development**  
 Electron, Node.js, Next.js, Supabase, REST APIs, GraphQL, WebSockets, Firebase Console, Android Studio, Web & PWA Development
