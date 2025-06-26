@@ -39,4 +39,10 @@ PyTorch, TensorFlow, Transformers, HuggingFace, LangChain, ONNX, GPT/LLaMA, Whis
 
 ---
 
+*my `hackatime` stats:*
+```
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+```
+
+---
 *Open to collaboration, consulting, and innovative projects. Let's connect!*
