@@ -1,0 +1,15 @@
+[settings]
+debug   = true
+api_url = "https://waka.hackclub.com/api"
+api_key = "4c420018-cc0c-421a-a368-9347c6939c80"
+offline = true
+
+[profile]
+name = "Shammah"
+email = "mbithishammah@gmail.com"
+website = "https://shammah.dino.icu"
+
+[wakatime]
+enabled = true
+api_key = "4c420018-cc0c-421a-a368-9347c6939c80"
+api_url = "https://waka.hackclub.com/api"
