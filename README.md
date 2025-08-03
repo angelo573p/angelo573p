@@ -41,6 +41,7 @@ PyTorch, TensorFlow, Transformers, HuggingFace, LangChain, ONNX, GPT/LLaMA, Whis
 
 *my `hackatime` stats:*
 ```
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shazz212326)
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 ```
 
