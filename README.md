@@ -38,10 +38,10 @@ PyTorch, TensorFlow, Transformers, HuggingFace, LangChain, ONNX, GPT/LLaMA, Whis
 - **Location:** Earth, Milky Way
 
 ---
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shazz212326)
 
 *my `hackatime` stats:*
 ```
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=shazz212326)
 {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
 ```
 
