@@ -5,37 +5,37 @@ Software dev, AI dev, Systems thinker, Hacker, Math enthusiast, High schooler.
 ---
 
 ## 🛠️ Technical Competencies
-## 🧠 Languages
+### 🧠 Languages
 ![Languages](https://skillicons.dev/icons?i=c,cpp,cs,dart,go,java,js,ts,py,rust,kotlin,haskell,html,css,regex)
 
-## 🔧 Frameworks & Libraries
+### 🔧 Frameworks & Libraries
 ![Frameworks](https://skillicons.dev/icons?i=react,vue,angular,svelte,nextjs,nuxtjs,fastapi,flask,django,bootstrap,tailwind,threejs,d3,jquery)
 
-## 🛠️ Developer Tools
+### 🛠️ Developer Tools
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,webstorm,pycharm,clion,replit,docker,cmake,gradle,npm,yarn,vite,maven,tauri)
 
-## 🖥️ Operating Systems
+### 🖥️ Operating Systems
 ![OS](https://skillicons.dev/icons?i=arch,ubuntu,kali,windows,apple)
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![Cloud](https://skillicons.dev/icons?i=aws,azure,firebase,supabase,netlify,vercel)
 
-## 🗃️ Databases
+### 🗃️ Databases
 ![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
-## 🧠 AI / ML / Data Science
+### 🧠 AI / ML / Data Science
 ![AI](https://skillicons.dev/icons?i=tensorflow,pytorch,matlab,octave,opencv)
 
-## 🕹️ Game Development
+### 🕹️ Game Development
 ![Game Dev](https://skillicons.dev/icons?i=unity,unreal,godot)
 
-## 🌐 Networking / APIs
+### 🌐 Networking / APIs
 ![Networking](https://skillicons.dev/icons?i=graphql,postman,gherkin)
 
-## 📬 Messaging & Social
+### 📬 Messaging & Social
 ![Messaging](https://skillicons.dev/icons?i=discord,gmail,instagram)
 
-## 🧩 Other
+### 🧩 Other
 ![Other](https://skillicons.dev/icons?i=nginx,bash,latex,md,sublime,emacs,vscodium,idea)
 
 ---
