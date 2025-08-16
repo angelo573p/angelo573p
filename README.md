@@ -1,6 +1,6 @@
 # Hi, I'm Shammah 👋
 
-Software dev, AI dev, Systems thinker, Hacker, Math enthusiast, High schooler.
+Software dev, AI dev, Systems thinker, Hacker, Competitive Programmer, Math enthusiast, High schooler.
 
 ---
 
