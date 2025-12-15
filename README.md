@@ -44,8 +44,7 @@ Software dev, AI dev, Systems thinker, Hacker, Competitive Programmer, Math enth
 
 - **Portfolio:** [shammah.dino.icu](https://shammah.dino.icu)
 - **Email:** [mbithishammah@gmail.com](mailto:mbithishammah@gmail.com)
-- **Discord:** [shazz212326](https://discord.com/users/1231208096597151805)
-- **Slack:** Available upon request
+- **Discord:** [nullptr9832](https://discord.com/users/1231208096597151805)
 - **Location:** Earth, Milky Way
 
 ---
